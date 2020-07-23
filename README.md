@@ -11,7 +11,7 @@ And
 ![Image](https://cdn.morgondag.io/bit/flow.gif)
 
 ## Use My Pixelart Tool
-![Image]((https://cdn.morgondag.io/bit/Header-capsule-image.png)
+![Image](https://cdn.morgondag.io/bit/Header-capsule-image.png)
 https://store.steampowered.com/app/1370650/Bit__Animation_Editor/
 
 ## Play my games
