@@ -1,3 +1,2 @@
-test
 
-![Image](flow.gif?raw=true)
+![Image](https://cdn.morgondag.io/bit/flow.gif)
