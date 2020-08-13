@@ -26,5 +26,3 @@ https://store.steampowered.com/app/1370650/Bit__Animation_Editor/
 ## Get in touch
 - https://morgondag.io
 
-## Come work with me:
-https://emp.jobylon.com/jobs/59195-northvolt-mobile-app-developer/
