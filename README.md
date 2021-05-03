@@ -1,11 +1,8 @@
 # Kim Aarnseth
-Hi, I'm Kim I make stuff and work on things. 
+https://morgondag.io
 
-☁️ 🎮 👾 🎨  @ https://morgondag.io
-
-And
-
-🔋 📱 ⚡ @ https://northvolt.com
-
-![Image](flow.gif?raw=true)
-
+| ☁️ 🎮     | 👾 🎨 |
+| ---      | ---       |
+| ![Image](flow.gif?raw=true) | ![Image](DNA.gif?raw=true)         |
+| ![Image](bend.gif?raw=true) | ![Image](garden.gif?raw=true)      |
+| ![Image](locket.gif?raw=true) | ![Image](tet.gif?raw=true)   |
